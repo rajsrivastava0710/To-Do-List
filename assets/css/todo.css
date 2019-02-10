@@ -1,10 +1,7 @@
-//jQuery event classes:
 .completed{
 	color:rgb(128,128,128);
 	text-decoration: line-through;
 }
-
-//CSS:
 
 body{
 	background: linear-gradient(90deg, #2bc0e4 10%, #eaecc6 90%);
